@@ -1,4 +1,3 @@
-# crood-build-system
 # bitbucket-pipelines.yml
           # python image with aws-cli installed
           image: atlassian/pipelines-awscli
